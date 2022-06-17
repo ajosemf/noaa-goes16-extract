@@ -1,0 +1,8 @@
+name: goes16-extract
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - tenacity
+  - s3fs
